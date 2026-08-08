@@ -27,5 +27,6 @@ This project predicts house prices using Machine Learning based on the Kaggle Ho
 
 ### Kaggle Result
 - Score: 0.15356
+- https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 This project represents a complete machine learning workflow, from data preprocessing to model training and Kaggle submission.
